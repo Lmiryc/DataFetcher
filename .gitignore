@@ -2,3 +2,5 @@
 apikey.local
 .env
 failure_case_hiketrail/
+#macOS
+.DS_Store
