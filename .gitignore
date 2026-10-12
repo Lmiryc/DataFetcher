@@ -1,0 +1,4 @@
+# Local credentials and environment configuration
+apikey.local
+.env
+failure_case_hiketrail/
